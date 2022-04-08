@@ -9,4 +9,4 @@ Computer-education(컴퓨터교육과)
 E키가 안눌리기 시작했네요. 조만간 키보드 하나 장만해야 할듯 합니다.
 
 ## 1. Markdown 언어
-[whatIsMarkdown.md](https://github.com/Docta-yangban/Computer-education/blob/main/Markdown/whatIsMarkdown.md)
+* [마크다운이란 무엇인가?](https://github.com/Docta-yangban/Computer-education/blob/main/Markdown/whatIsMarkdown.md)
