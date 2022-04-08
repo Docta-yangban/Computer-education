@@ -21,7 +21,6 @@ _여담으로, http://~~~ 에서 //는 없어도 잘 돌아가는 것을 볼 수
 <html>
     <head>
         <title>Hello Html5</title>
-        <style>
     </head>
     <body>
         <h1>Hello world!</h1>
@@ -32,7 +31,6 @@ _여담으로, http://~~~ 에서 //는 없어도 잘 돌아가는 것을 볼 수
 <html>
     <head>
         <title>Hello Html5</title>
-        <style>
     </head>
     <body>
         <h1>Hello world!</h1>
