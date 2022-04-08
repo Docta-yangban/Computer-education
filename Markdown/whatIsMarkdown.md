@@ -12,13 +12,15 @@
 ## 1. 마크다운의 문법
 ### 1.1 헤더(Headers)
 
-    # this is H1
-    ## this is H2
-    ### this is H3
-    #### this is H4
-    ##### this is H5
-    ###### this is H6
-    ~~####### This is a H7(지원하지 않음)~~
+```
+# this is H1
+## this is H2
+### this is H3
+#### this is H4
+##### this is H5
+###### this is H6
+~~####### This is a H7(지원하지 않음)~~
+```
 
 # this is H1
 ## this is H2
