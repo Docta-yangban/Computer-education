@@ -11,12 +11,12 @@ _여담으로, http://~~~ 에서 //는 없어도 잘 돌아가는 것을 볼 수
 
 다음은 HTML의 기본적인 형식이다.
 ```html
-<!DOCTYPE html> <!-- Document type declaration -->   
-<html></html> <!-- 모든 HTML 페이지의 기본 요소로, 모든 태그는 이 HTML 태그 내부에 작성한다. -->   
-<head></head> <!-- body 태그에 필요한 스타일시트와 자바스크립트를 제공한다. -->   
-<title></title> <!-- 웹 브라우저에 표시하는 제목을 지정한다. -->   
-<style></style> <!-- 스타일시트이다. -->
-<body></body> <!-- 사용자에게 실제로 보이는 부분을 작성하는 곳이다. -->   
+<!DOCTYPE html> : Document type declaration(=문서 형식 선언)   
+<html></html> : 모든 HTML 페이지의 기본 요소로, 모든 태그는 이 HTML 태그 내부에 작성한다.   
+<head></head> : body 태그에 필요한 스타일시트와 자바스크립트를 제공한다.   
+<title></title> : 웹 브라우저에 표시하는 제목을 지정한다.   
+<style></style> : 스타일시트이다.   
+<body></body> : 사용자에게 실제로 보이는 부분을 작성하는 곳이다.   
 
 <!DOCTYPE html>
 <html>
