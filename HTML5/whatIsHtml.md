@@ -109,7 +109,7 @@ px는 생략할 수 있습니다.
     <li>JavaScript</li>
 </ol>
 
-```
+```html
 <ol>
     <li>HTML</li>
     <li>CSS</li>
@@ -125,7 +125,7 @@ px는 생략할 수 있습니다.
     <li>JavaScript</li>
 </ul>
 
-```
+```html
 <ul>
     <li>HTML</li>
     <li>CSS</li>
