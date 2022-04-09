@@ -30,9 +30,12 @@
 ###### this is H6
 ~~####### This is a H7(지원하지 않음)~~
 
-1.2 들여쓰기
-    <a href="https://github.com/Docta-yangban/Computer-education>
-<a href="https://github.com/Docta-yangban/Computer-education>
+### 1.2 코드 블록
+``` `<a href="https://github.com/Docta-yangban/Computer-education>` ```   
+또는   
+` ```<a href="https://github.com/Docta-yangban/Computer-education>``` `
 
-들여쓰고자 하는 문장 앞을 네칸 띄우거나, 탭으로 띄워주면 됩니다.   
+<a href="https://github.com/Docta-yangban/Computer-education>   
+
+들여쓰고자 하는 문장 앞과 뒤를 `이나 ```으로 표현하면 됩니다.   
 이는 코드를 **보여주고 싶을 때** 사용합니다.
