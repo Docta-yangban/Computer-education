@@ -13,11 +13,11 @@ E키가 안눌리기 시작했네요. 조만간 키보드 하나 장만해야 �
 * [마크다운이란 무엇인가?](https://github.com/Docta-yangban/Computer-education/blob/main/Markdown/whatIsMarkdown.md)
 
 ## 2. HTML
-* [HTML이란 무엇인가?](/blob/main/HTML5/whatIsHtml.md)   
-* [리스트](#whatIsList.md)   
-* [태그](#whatIsTag.md)   
-* [속성](#whatIsAttribute.md)
-* [앵커]
+* [HTML이란 무엇인가?](/HTML5/whatIsHtml.md)   
+* [리스트](/HTML5/whatIsList.md)   
+* [태그](/HTML5/whatIsTag.md)   
+* [속성](/HTML5/whatIsAttribute.md)
+* [앵커](/HTML5/whatIsAnchor.md)
 
 ## 3. Python
 곧 제작 예정
