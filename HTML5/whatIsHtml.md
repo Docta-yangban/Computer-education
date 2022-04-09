@@ -10,8 +10,8 @@ _여담으로, http://~~~ 에서 //는 없어도 잘 돌아가는 것을 볼 수
 이 글의 내용들은 학교와 동아리, 그리고 [생활코딩](https://opentutorials.org/course/3084)의 내용들을 기반으로 제작되었습니다.   
 초보자에게 좋은 강의이니 가셔서 공부해보는 걸 추천합니다.
 
-## 1. HTML 기본 용어
-### 1.1 기본 틀과 태그
+## 1. HTML 개요
+### 1.1 HTML의 기본 형식
 다음은 HTML의 기본적인 형식이다.
 
 `<!DOCTYPE html>` : Document type declaration(=문서 형식 선언), HTML파일일 경우 반드시 첫 줄에 넣어야 합니다.   
@@ -82,7 +82,7 @@ _여담으로, http://~~~ 에서 //는 없어도 잘 돌아가는 것을 볼 수
 
 `<br>`과 `<hr>`은 닫지 않는 것을 볼 수 있는데, 태그 내부에 넣을 속성이 없기 때문입니다. [[참조]](https://ofcourse.kr/html-course/%ED%83%9C%EA%B7%B8)
 
-### 1.3 속성
+### 1.3 기본 속성
 
 태그의 심화된 문법입니다.
 
@@ -97,4 +97,41 @@ _여담으로, http://~~~ 에서 //는 없어도 잘 돌아가는 것을 볼 수
 
 `<img src="https://s3-ap-northeast-2.amazonaws.com/opentutorials-user-file/module/3135/7648.png" width="400px">`   
 <img src="https://s3-ap-northeast-2.amazonaws.com/opentutorials-user-file/module/3135/7648.png" width="400px">   
-px는 생략할 수 있다
+px는 생략할 수 있습니다.
+
+## 2. 목차
+`<li>` : list를 줄인 것으로, 목차로 표현할 때 필요한 태그입니다.
+
+`<ol>` : ordered list의 약자로, 차례 있는 목차의 부모 태그입니다.
+<ol>
+    <li>HTML</li>
+    <li>CSS</li>
+    <li>JavaScript</li>
+</ol>
+
+```
+<ol>
+    <li>HTML</li>
+    <li>CSS</li>
+    <li>JavaScript</li>
+<ol>
+```
+<hr>
+
+`<ul>` : unordered list의 약자로, 차례 없는 목차의 부모 태그입니다.
+<ul>
+    <li>HTML</li>
+    <li>CSS</li>
+    <li>JavaScript</li>
+</ul>
+
+```
+<ul>
+    <li>HTML</li>
+    <li>CSS</li>
+    <li>JavaScript</li>
+</ul>
+```
+
+이와 같이 표현할 수 있습니다.
+
