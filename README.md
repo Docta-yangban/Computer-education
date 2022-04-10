@@ -9,18 +9,23 @@ E키가 안눌리기 시작했네요. 조만간 키보드 하나 장만해야 �
 * 2021.07.01 깃허브 가입   
 * 2022.04.08 Markdown 및 HTML 페이지 제작
 
-## 1. Markdown
-* [마크다운이란 무엇인가?](https://github.com/Docta-yangban/Computer-education/blob/main/Markdown/whatIsMarkdown.md)
+## 1. 교과교육학
+* [컴퓨팅 사고란?](/Computer_Education/computationalThinking.md)
 
-## 2. HTML
-* [HTML이란 무엇인가?](/HTML5/whatIsHtml.md)   
-* [리스트](/HTML5/whatIsList.md)   
-* [태그](/HTML5/whatIsTag.md)   
-* [속성](/HTML5/whatIsAttribute.md)
-* [앵커](/HTML5/whatIsAnchor.md)
+## 2. 교과내용학
+### 2.1 컴퓨터 프로그래밍
+* Markdown
+    * [마크다운이란 무엇인가?](/Computer_Programming/Markdown/whatIsMarkdown.md)
 
-## 3. Python
-곧 제작 예정
+* HTML
+    * [HTML이란 무엇인가?](/Computer_Programming/HTML5/whatIsHtml.md)   
+    * [리스트](/Computer_Programming/HTML5/whatIsList.md)   
+    * [태그](/Computer_Programming/HTML5/whatIsTag.md)   
+    * [속성](/Computer_Programming/HTML5/whatIsAttribute.md)
+    * [앵커](/Computer_Programming/HTML5/whatIsAnchor.md)
 
-## 4. C
-제작 예정
+* Python   
+(곧 제작 예정)
+
+* C   
+(제작 예정)
