@@ -10,19 +10,22 @@ E키가 안눌리기 시작했네요. 조만간 키보드 하나 장만해야 �
 * 2022.04.08 Markdown 및 HTML 페이지 제작
 
 ## 1. 교과교육학
-* [컴퓨팅 사고란?](/Computer_Education/computationalThinking.md)
+* [컴퓨팅 사고란?](Computer_Education/computationalThinking.md)
+* [교수학습활동](Computer_Education\Teaching_And_Learning_Methods.md)
+* [하드웨어와 이진법](Computer_Education\Hardware_And_Binary.md)
+* [문자와 이미지](Computer_Education\Text_and_Image.mdComputer_Education\Text_and_Image.md)
 
 ## 2. 교과내용학
 ### 2.1 컴퓨터 프로그래밍
 * Markdown
-    * [마크다운이란 무엇인가?](/Computer_Programming/Markdown/whatIsMarkdown.md)
+    * [마크다운이란 무엇인가?](Computer_Programming/Markdown/whatIsMarkdown.md)
 
 * HTML
-    * [HTML이란 무엇인가?](/Computer_Programming/HTML5/whatIsHtml.md)   
-    * [리스트](/Computer_Programming/HTML5/whatIsList.md)   
-    * [태그](/Computer_Programming/HTML5/whatIsTag.md)   
-    * [속성](/Computer_Programming/HTML5/whatIsAttribute.md)
-    * [앵커](/Computer_Programming/HTML5/whatIsAnchor.md)
+    * [HTML이란 무엇인가?](Computer_Programming/HTML5/whatIsHtml.md)   
+    * [리스트](Computer_Programming/HTML5/whatIsList.md)   
+    * [태그](Computer_Programming/HTML5/whatIsTag.md)   
+    * [속성](Computer_Programming/HTML5/whatIsAttribute.md)
+    * [앵커](Computer_Programming/HTML5/whatIsAnchor.md)
 
 * Python   
 (곧 제작 예정)
