@@ -14,6 +14,7 @@ E키가 안눌리기 시작했네요. 조만간 키보드 하나 장만해야 �
 * [교수학습활동](Computer_Education\Teaching_And_Learning_Methods.md)
 * [하드웨어와 이진법](Computer_Education\Hardware_And_Binary.md)
 * [문자와 이미지](Computer_Education\Text_and_Image.mdComputer_Education\Text_and_Image.md)
+* [데이터 압축과 오류탐지](Computer_Education\Data_Compression_And_Error_Detection.md)
 
 ## 2. 교과내용학
 ### 2.1 컴퓨터 프로그래밍
